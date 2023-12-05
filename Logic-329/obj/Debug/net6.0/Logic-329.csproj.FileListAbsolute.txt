@@ -1,0 +1,15 @@
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\bin\Debug\net6.0\Logic-329.exe
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\bin\Debug\net6.0\Logic-329.deps.json
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\bin\Debug\net6.0\Logic-329.runtimeconfig.json
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\bin\Debug\net6.0\Logic-329.dll
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\bin\Debug\net6.0\Logic-329.pdb
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.csproj.AssemblyReference.cache
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.AssemblyInfoInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.AssemblyInfo.cs
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.dll
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\refint\Logic-329.dll
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.pdb
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\Logic-329.genruntimeconfig.cache
+C:\Users\ASUS\DATA D\Bootcamp\Xsis\Ngoding\logic-329\Logic-329\obj\Debug\net6.0\ref\Logic-329.dll
